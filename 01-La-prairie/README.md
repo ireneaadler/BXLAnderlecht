@@ -11,7 +11,7 @@
 - Faire un nouveau groupe
 - Exercice : [Bases de HTML](https://github.com/becodeorg/BXLCentral/blob/master/01-La-prairie/exercice-html-basic.md)
 - Rejoindre son premier groupe 
-- Exercice : [Du Markdown vers le HTML]
+- Exercice : [Du Markdown vers le HTML](https://github.com/becodeorg/BXLAnderlecht/blob/master/01-La-prairie/Exercice-Markdown_to_HTML.md)
 
 
 ## Base CSS
@@ -27,4 +27,4 @@
 
 
 ## Premières présentations de veille technologique
-- [Veille du 21 avril 2017]
+- [Veille du 21 avril 2017](https://github.com/becodeorg/BXLAnderlecht/blob/master/Veille/Veille-20170421.md)
