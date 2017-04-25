@@ -7,7 +7,7 @@
  <para>
  ```
 
-2 - Quelle est la différence entre la balise <head> et la balise <body> ?
+2 - Quelle est la différence entre la balise `<head>` et la balise `<body>` ?
 
 3 - Quelles balises permettent d'insérer une citation ?
 ```
@@ -17,7 +17,7 @@
 <citation>
 ```
 
-4 - Quelle est la différence entre la balise <blockquote> et <cite> ?
+4 - Quelle est la différence entre la balise `<blockquote>` et `<cite>` ?
 
 5 - Comment fait-on des titres dans une page HTML ?
 ```
@@ -34,7 +34,7 @@
 <meta>
 ```
 
-7 - Quelle est la différence entre <ol> et <ul> ?
+7 - Quelle est la différence entre `<ol>` et `<ul>` ?
 
 8 - Quelle balise sert à mettre en gras ?
 ```
