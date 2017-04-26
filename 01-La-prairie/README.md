@@ -19,6 +19,7 @@
 - Lire ce [guide de bonnes pratiques CSS](http://guidecss.fr/)
 - Joue avec [CSS Diner](http://flukeout.github.io/)
 - Exercice : [Introduction à CSS](https://github.com/becodeorg/BXLCentral/blob/master/01-La-prairie/exercice-markdown-to-html-and-css.md)
+- Exercice [Pratique 1](https://github.com/becodeorg/BXLAnderlecht/blob/master/01-La-prairie/pratique1)
 
 
 ## Git/GitHub
