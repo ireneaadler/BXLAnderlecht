@@ -20,6 +20,22 @@ Créer une animation CSS
 - Votre fond de la page doit changer au minimum 4 fois de couleurs.
 - Amusez-vous en explorant plus loin des animations.
 
+## HTML - Exercice 3
+
+Créer un tableau en HTML et CSS avec la balise `<table>`.
+Ce tableau contiendra une liste fictive d'apprenants pour l'école de BeCode Outsiplou. On souhaite y voir figurer :
+- le nom et prénom
+- le genre
+- l'adresse postale
+- le numéro de téléphone
+- l'adresse email
+- le pseudo github
+
+Petites contraintes :
+- Les lignes doivent être écrites en violet pour les filles et en vert pour les garçons.
+- Les couleurs du fond des lignes sauteront à chaque fois d'une ligne (exemple : ligne 1 grise, ligne 2 blanche, ligne 3 grise et ainsi de suite)
+
+Bonus : on rajoute un favicon mignon
 
 ## HTML/CSS - Exercice Bonus
 
