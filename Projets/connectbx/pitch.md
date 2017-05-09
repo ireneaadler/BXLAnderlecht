@@ -3,36 +3,39 @@
 Le site internet contiendra 6 pages :
 - accueil
 - associations
-- événements
+- Ã©vÃ©nements
 - blog
-- à propos
+- Ã  propos
 - contact
 
 
 
 ### Accueil
-Voir fichier [« Template - Accueil.jpg »](Template-Accueil.jpg)
+Voir fichier [Â« Template - Accueil.jpg Â»](Template-Accueil.jpg)
 
 ### Associations
-Le but est d’avoir une page qui reprenne les associations sur Bruxelles représentées sur une carte avec leurs informations de contact
+Le but est dâ€™avoir une page qui reprenne les associations sur Bruxelles reprÃ©sentÃ©es sur une carte avec leurs informations de contact
 
-Il est possible de reprendre ces informations de cette map (ou autre si vous avez une autre idée plus efficace) :
-Adresse de la map : [http://maps.dewey.be/frame/286](http://maps.dewey.be/frame/286) (à insérer dans une balise `<iframe></iframe>`)
+Il est possible de reprendre ces informations de cette map (ou autre si vous avez une autre idÃ©e plus efficace) :
 
-### Evénements
-Une page avec un agenda où il sera possible pour l’administrateur du site de rajouter des événements facilement. Il est donc préférable de créer une sorte de CMS ou d’en intégrer un existant style Wordpress.
+Adresse de la map : [http://maps.dewey.be/frame/286](http://maps.dewey.be/frame/286) (Ã  insÃ©rer dans une balise `<iframe></iframe>`)
+
+### EvÃ©nements
+Une page avec un agenda oÃ¹ il sera possible pour lâ€™administrateur du site de rajouter des Ã©vÃ©nements facilement. Il est donc prÃ©fÃ©rable de crÃ©er une sorte de CMS ou dâ€™en intÃ©grer un existant style Wordpress.
 
 ### Blog
-Des articles seront publié dans le répertoire connectbx.be/blog. Y intégrer Wordpress me semble le plus facile.
+Des articles seront publiÃ© dans le rÃ©pertoire connectbx.be/blog. 
+Y intÃ©grer Wordpress me semble le plus facile.
 
 ### A propos
 Une page qui parle du projet de connectBx :
 
-« La Communauté ConnectBX souhaite faire connaitre le monde associatif aux jeunes Bruxellois et encourager le changement positif mené par les jeunes. Cela en créant un lien entre les associations désireuses de volontaires et les jeunes qui souhaitent faire des projets »
+Â« La CommunautÃ© ConnectBX souhaite faire connaitre le monde associatif aux jeunes Bruxellois et encourager le changement positif menÃ© par les jeunes. Cela en crÃ©ant un lien entre les associations dÃ©sireuses de volontaires et les jeunes qui souhaitent faire des projets Â»
 
 ### Contact
 Un formulaire de contact avec comme champs :
-Nom, adresse e-mail, message (Voir fichier [« Template - Contact.jpg »](Template-Contact.jpg))
+
+Nom, adresse e-mail, message (Voir fichier [Â« Template - Contact.jpg Â»](Template-Contact.jpg))
 
 ### Autres fichiers et infos :
 - [fichier background](background.jpg)
