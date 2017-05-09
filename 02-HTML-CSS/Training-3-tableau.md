@@ -39,7 +39,7 @@ Vous allez créer votre CV en vous inspirant du gabarit que vous allez trouver e
 5. [Guide de survie du positionnement CSS](https://www.alsacreations.com/article/lire/53-GuidedesurviedupositionnementCSS.html)
 6. [Initiation au positionnement CSS : 3](https://openweb.eu.org/articles/initiation_absolue)
 
-###OUPS! c'est un peu corsé, je l'avoue, mais c'est seulement en vous entrainant que vous allez sauter le mur.
+###OUPS! c'est un peu corsé, je l'avoue, mais c'est seulement en vous entrainant que vous marcherez sur la mer.
 ![alt emoticone](https://s-media-cache-ak0.pinimg.com/236x/ec/44/09/ec4409cd24c39f97489d4eb4db70b643.jpg?noindex=1)
 
 # Amusez-vouuuuuuuuuuus!!!!
