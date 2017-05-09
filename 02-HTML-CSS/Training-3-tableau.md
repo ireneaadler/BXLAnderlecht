@@ -41,3 +41,5 @@ Vous allez créer votre CV en vous inspirant du gabarit que vous allez trouver e
 
 ###OUPS! c'est un peu corsé, je l'avoue, mais c'est seulement en vous entrainant que vous allez sauter le mur.
 ![alt emoticone](https://s-media-cache-ak0.pinimg.com/236x/ec/44/09/ec4409cd24c39f97489d4eb4db70b643.jpg?noindex=1)
+
+# Amusez-vouuuuuuuuuuus!!!!
