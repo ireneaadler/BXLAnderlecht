@@ -5,7 +5,7 @@
 Vous allez créer votre CV en vous inspirant du gabarit que vous allez trouver en dessous des instructions.
 
 **ATTENTION**:
-1. N'utiliser que **LES TABLEAUX** pour la mise en page.
+1. N'utiliser que **LES TABLEAUX** pour la mise en page.(Possiblité imbriquer les tableaux)
 2. Pour les icons, utiliser les **Front Awesome Icons** (Une occasion d'apprendre comment les utiliser) 
 3. Utiliser le CSS pour la mise en forme des textes et couleurs.
 4. Créer 3 DIVs
