@@ -3,8 +3,10 @@
 
 ### Cours :
 - [HTML5 Training](https://github.com/becodeorg/BXLAnderlecht/blob/master/02-HTML-CSS/HTML5%20Training%20Becode%20Anderlecht.pdf)
-- [CSS3 Training : animations](https://github.com/becodeorg/BXLAnderlecht/blob/master/02-HTML-CSS/CSS3_Training_Animation.pdf)
-- [TABLEAU Training day #3](https://github.com/becodeorg/BXLAnderlecht/blob/master/02-HTML-CSS/Training-3-tableau.md)
+- [CSS3 Training : animations](CSS3_Training_Animation.pdf)
+
 
 ### Exercices :
-- [exercice 01](https://github.com/becodeorg/BXLAnderlecht/blob/master/02-HTML-CSS/exercice01.md) // edit 09/05 : mis à jour
+- [exercice 01](exercice01.md) // edit 09/05 : mis à jour
+- [TABLEAU Training day #3](Training-3-tableau.md)
+- [Exercice de récap](Training-recap.md)
