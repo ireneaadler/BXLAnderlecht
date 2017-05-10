@@ -2,7 +2,7 @@
 
 ## Instructions
 
-Vous allez créer votre CV en vous inspirant du gabarit que vous allez trouver en dessous des instructions.
+Vous allez créer un CV en vous inspirant du gabarit que vous allez trouver en dessous des instructions.
 
 **ATTENTION**:
 1. N'utiliser que **LES TABLEAUX** pour la mise en page.(Possibilité d'imbriquer les tableaux)
