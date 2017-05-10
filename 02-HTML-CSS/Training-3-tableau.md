@@ -7,7 +7,7 @@ Vous allez créer votre CV en vous inspirant du gabarit que vous allez trouver e
 **ATTENTION**:
 1. N'utiliser que **LES TABLEAUX** pour la mise en page.(Possibilité d'imbriquer les tableaux)
 2. Pour les icons, utiliser les **Front Awesome Icons** (Une occasion d'apprendre comment les utiliser) 
-3. Utiliser le CSS pour la mise en forme du texte et couleurs.
+3. Utiliser le CSS pour la mise en forme du texte et couleurs. (couleur body: #b7b7b7, couleur feuille:#f1f1f1)
 4. Créer 3 DIVs
    * Mettre "Resume" dans Div 1
    * "Work" dans div 2
@@ -15,6 +15,7 @@ Vous allez créer votre CV en vous inspirant du gabarit que vous allez trouver e
 5. Positionner les 3 div comme indiqué dans le gabarit.(Voir positionnement en CSS)
 6. Pour la police utiliser **Arial, Helvetica ou du sans-serif**.
 7. Pour les petites barres de progression, utiliser les balises *progress ou meter*
+8. Voici les balises pour tableau: *Table, thead, tbody, tfoot, tr, td...*
 
 ## Voici le gabarit
 ![alt Gabarit](https://github.com/sallartiste/Cours/blob/master/exo-cv-tablo.jpg)
@@ -30,6 +31,10 @@ Vous allez créer votre CV en vous inspirant du gabarit que vous allez trouver e
    </tr>
 </table>
 ```
+## CONSEIL
+Commencez par apprendre la balise TABLE et ses enfants avant de vous lancer sur l'exercice, cela va vous faire gagner beaucoup de temps.
+Pareil pour les Front Awesome Icons. Comme on a vu l'autre fois sur *les joies de code* Lire la documentation est IMPORTANT
+
 ## Resources
 
 1. [Font Awesome Icons](http://fontawesome.io/icons/)
