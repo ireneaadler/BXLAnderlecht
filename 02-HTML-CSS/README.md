@@ -7,6 +7,4 @@
 
 
 ### Exercices :
-- [exercice 01](exercice01.md) // edit 09/05 : mis à jour
-- [TABLEAU Training day #3](Training-3-tableau.md)
-- [Exercice de récap](Training-recap.md)
+- [Liste des exercices](exercice01.md) // edit 10/05 : mis à jour
