@@ -41,9 +41,15 @@ Bonus : on rajoute un favicon mignon
 
 [Nouvel exercice sur les tableaux](Training-3-tableau.md), un brin plus corsé.
 
-## HTML/CSS - Exercice Bonus
+## HTML/CSS - Exercice 5
 
 Reproduisez en HTML et CSS [le design du site activecollab](https://github.com/becodeorg/BXLAnderlecht/blob/master/02-HTML-CSS/capture-fullpage.png) en essayant que ça soit le plus ressemblant possible.
 
 Et surtout lisez [les Dix Commandements du HTML et du CSS !](https://github.com/simplonco/Ten-Commandments-of-HTML-and-CSS/blob/master/README_FR.md)!! 
 Un recueil des bonnes pratiques ;)
+
+## HTML/CSS - Exercice Bonus
+
+Si et seulement si vous avez tout fini :
+
+[Exercice de récap](Training-recap.md)
