@@ -37,6 +37,10 @@ Petites contraintes :
 
 Bonus : on rajoute un favicon mignon
 
+## HTML/CSS - Exercice 4
+
+[Nouvel exercice sur les tableaux](Training-3-tableau.md), un brin plus corsé.
+
 ## HTML/CSS - Exercice Bonus
 
 Reproduisez en HTML et CSS [le design du site activecollab](https://github.com/becodeorg/BXLAnderlecht/blob/master/02-HTML-CSS/capture-fullpage.png) en essayant que ça soit le plus ressemblant possible.
