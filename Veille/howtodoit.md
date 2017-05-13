@@ -20,7 +20,7 @@ Si l'apprenant a présenté un contenu à la classe (powerpoint, pdf, notes, pho
 * Durée : environ 15min + le temps de répondre aux questions/remarques
 * Faire un lien entre le sujet et des informations communautaires (Vie privée, développement du web, évolutions de la société,...)
 * Diapo dynamique et sans texte (photos, images, vidéos uniquement)
-* Importance de la présentation : parler à votre public (éviter de lire, regarder en direction de votre public et non de vos notes), articuler, parler suffisemment fort, anticiper les questions,...
+* Importance de la présentation : parler à votre public (éviter de lire, regarder en direction de votre public et non de vos notes), articuler,...
 
 Eric M.- Salla
 
