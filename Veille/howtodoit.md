@@ -9,13 +9,11 @@ _Pourquoi et comment se tenir informer de l'actualité et des évolutions techni
 
 ### Faire une veille Technologique
 
-__Veille Technologique__ : Tâche qui consiste à se tenir au courant des nouveautés et des évolutions dans un domaine précis.
-
-La veille quotidienne chez becode consistera à s'informer sur un sujet d'actualité puis de transmettre ces nouvelles connaissances à ses camarades par le biais d'une présentation rapide.
-
-L'apprenant pourra utiliser toutes les sources d'informations de son choix (site, blog, réseaux sociaux, journaux, Flux RSS, agrégateurs,...) mais en devra vérifier leur véracité (recouper les informations). Il est indispensable de choisir une actualité intéressante et en rapport avec le web.
+La veille quotidienne chez becode consistera à __s'informer sur un sujet d'actualité puis de transmettre ces nouvelles connaissances__ à ses camarades par le biais d'__une présentation rapide__.
 
 A l'issu de l'exposé, __les apprenants pourront poser des questions__ sur le sujet présenté.
+
+Si l'apprenant a présenté un contenu à la classe (powerpoint, pdf, notes, photos,...), il est invité à créer un repo "Becode-veille" sur son compte GitHub et d'y stocker ce contenu afin qu'il soit disponible à posteriori pour ses camarades. Afin de centraliser les informations et d'en permettre un accès plus aisé, l'apprenant est invité à mettre à jour le fichier [Archives](archives.md) avec une petite description et le lien vers le contenu présenté.
 
 ### Consignes
 
