@@ -13,7 +13,7 @@ La veille quotidienne chez becode consistera à __s'informer sur un sujet d'actu
 
 A l'issu de l'exposé, __les apprenants pourront poser des questions__ sur le sujet présenté.
 
-Si l'apprenant a présenté un contenu à la classe (powerpoint, pdf, notes, photos,...), il est invité à créer un repo "Becode-veille" sur son compte GitHub et d'y stocker ce contenu afin qu'il soit disponible à posteriori pour ses camarades. Afin de centraliser les informations et d'en permettre un accès plus aisé, l'apprenant est invité à mettre à jour le fichier [Archives](archives.md) avec une petite description et le lien vers le contenu présenté.
+Si l'apprenant a présenté un contenu à la classe (powerpoint, pdf, notes, photos,...), il est invité à __créer un repo "Becode-veille"__ sur son compte GitHub et d'y __stocker ce contenu__ afin qu'il soit disponible à posteriori pour ses camarades. Afin de centraliser les informations et d'en permettre un accès plus aisé, l'apprenant est invité à __mettre à jour le fichier [Archives](archives.md)__ avec une petite description et le lien vers le contenu présenté.
 
 ### Consignes
 
