@@ -7,3 +7,6 @@
 
 ### Exercices :
 - [Exercices](exercices.md)
+
+### Projet :
+- [Projet](projet.md)
