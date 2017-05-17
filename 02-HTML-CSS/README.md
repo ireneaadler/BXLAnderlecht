@@ -7,4 +7,4 @@
 
 
 ### Exercices :
-- [Liste des exercices](exercice01.md) // edit 10/05 : mis à jour
+- [Liste des exercices](exercice01.md) // edit 17/05 : mis à jour avec l'exercice sur les media queries

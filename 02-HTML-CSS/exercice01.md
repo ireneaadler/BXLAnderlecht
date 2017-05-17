@@ -48,6 +48,12 @@ Reproduisez en HTML et CSS [le design du site activecollab](https://github.com/b
 Et surtout lisez [les Dix Commandements du HTML et du CSS !](https://github.com/simplonco/Ten-Commandments-of-HTML-and-CSS/blob/master/README_FR.md)!! 
 Un recueil des bonnes pratiques ;)
 
+## HTML/CSS - Exercice 6
+
+Sur base d'[un site déjà existant](Exo-responsive-mediaqueries), adaptez-le pour les écrans de smartphone et pour de tablette.
+- Ne modifier que le fichier CSS
+- N'utiliser que le fichier CSS existant
+
 ## HTML/CSS - Exercice Bonus
 
 Si et seulement si vous avez tout fini :
