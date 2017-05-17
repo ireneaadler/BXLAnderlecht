@@ -50,7 +50,7 @@ Un recueil des bonnes pratiques ;)
 
 ## HTML/CSS - Exercice 6
 
-Sur base d'[un site déjà existant](Exo-responsive-mediaqueries), adaptez-le pour les écrans de smartphone et pour de tablette.
+Sur base d'[un site déjà existant](exo-respons.zip), adaptez-le pour les écrans de smartphone et pour de tablette.
 - Ne modifier que le fichier CSS
 - N'utiliser que le fichier CSS existant
 
