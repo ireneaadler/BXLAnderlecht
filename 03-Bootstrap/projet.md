@@ -12,13 +12,13 @@ Il faut au minimum :
 - Une page **Carte** avec les menus présentés sous forme de liste groupée avec badges
 - Une page **Photos** avec une galerie photos (minimum 10) et une pagination (3 photos par page)
 - Une page **Restaurants** avec l'adresse, un plan d'accès et les heures d'ouverture d’au moins deux restaurants (c’est une franchise !)
-- Une page **Contact** avec un formulaire de contact comprenant nom, prénom, e-mail, liste déroulante, zone de commentaires, un bouton d'envoi avec glyphicon. Mettre un label également sur cette page pour indiquer un truc
+- Une page **Contact** avec un formulaire de contact comprenant nom, prénom, e-mail, liste déroulante (objet du message avec un select et des options)), un champs de texte (pour le message), un bouton d'envoi avec glyphicon. Mettre un label également sur cette page pour indiquer un truc
 
 ### Conseils
 1. Prenez le temps qu’il vous faut.
 2. N’hésitez pas à faire des dessins, des plans, à prendre des notes sur papier avant de commencer.
 3. Lisez bien les consignes, lisez bien les consignes, lisez bien les consiiiiignes !!!
-4. Préparer votre contenu et d’ensuite seulement appliquer la structure puis les classes et id et ensuite le CSS ! Ne vous éparpillez pas, allez-y pas à pas, page par page,...
+4. Préparer votre contenu, ensuite seulement appliquer la structure puis les classes et id et ensuite le CSS ! Ne vous éparpillez pas, allez-y pas à pas, page par page,...
 
 ### Contrainte
 *pour ceux qui auraient l'audace d'y penser* :
