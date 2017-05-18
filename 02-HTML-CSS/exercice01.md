@@ -1,7 +1,7 @@
 # Exercices HTML5
 *N'oubliez pas de toujours sauvegarder vos exercices sur vos repos GitHub !*
 
-## HTML - Exercice 1
+## Page simple HTML - Exercice 1
 
 *(présent sur le slide HTML5)*
 Avec vos nouvelles compétences HTML5 et CSS, créer une page. 
@@ -12,7 +12,7 @@ Elle devra comporter :
 - Coordonnées 
 - Formulaire de contact (Une occasion de vous entraîner au formulaire)
 
-## CSS - Exercice 2
+## Animations CSS - Exercice 2
 
 *(présent sur le slide CSS3)*
 Créer une animation CSS
@@ -20,7 +20,7 @@ Créer une animation CSS
 - Votre fond de la page doit changer au minimum 4 fois de couleurs.
 - Amusez-vous en explorant plus loin des animations.
 
-## HTML - Exercice 3
+## Tableau HTML - Exercice 3
 
 Créer un tableau en HTML et CSS avec la balise `<table>`.
 Ce tableau contiendra une liste fictive d'apprenants pour l'école de BeCode Outsiplou. On souhaite y voir figurer :
@@ -37,24 +37,24 @@ Petites contraintes :
 
 Bonus : on rajoute un favicon mignon
 
-## HTML/CSS - Exercice 4
+## CV en tableau - Exercice 4
 
 [Nouvel exercice sur les tableaux](Training-3-tableau.md), un brin plus corsé.
 
-## HTML/CSS - Exercice 5
+## Reproduction en HTML/CSS - Exercice 5
 
 Reproduisez en HTML et CSS [le design du site activecollab](https://github.com/becodeorg/BXLAnderlecht/blob/master/02-HTML-CSS/capture-fullpage.png) en essayant que ça soit le plus ressemblant possible.
 
 Et surtout lisez [les Dix Commandements du HTML et du CSS !](https://github.com/simplonco/Ten-Commandments-of-HTML-and-CSS/blob/master/README_FR.md)!! 
 Un recueil des bonnes pratiques ;)
 
-## HTML/CSS - Exercice 6
+## Media Queries - Exercice 6
 
 Sur base d'[un site déjà existant](exo-respons.zip), adaptez-le pour les écrans de smartphone et de tablette.
 - Ne modifier que le fichier CSS
 - N'utiliser que le fichier CSS existant
 
-## HTML/CSS - Exercice Bonus
+## Un vrai website - Exercice Bonus
 
 Si et seulement si vous avez tout fini :
 
