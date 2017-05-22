@@ -43,7 +43,9 @@ Bonus : on rajoute un favicon mignon
 
 ## HTML/CSS - Exercice 5
 
-Reproduisez en HTML et CSS [le design du site activecollab](https://github.com/becodeorg/BXLAnderlecht/blob/master/02-HTML-CSS/capture-fullpage.png) en essayant que ça soit le plus ressemblant possible.
+Reproduisez en HTML et CSS [le design du site Turlututu](turlututu.png) en essayant que ça soit le plus ressemblant possible. (difficulté ++)
+
+Reproduisez en HTML et CSS [le design du site activecollab](https://github.com/becodeorg/BXLAnderlecht/blob/master/02-HTML-CSS/capture-fullpage.png) en essayant que ça soit le plus ressemblant possible. (difficulté +++)
 
 Et surtout lisez [les Dix Commandements du HTML et du CSS !](https://github.com/simplonco/Ten-Commandments-of-HTML-and-CSS/blob/master/README_FR.md)!! 
 Un recueil des bonnes pratiques ;)
