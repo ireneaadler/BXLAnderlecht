@@ -4,6 +4,7 @@
 
 - Cours : [01 - Introduction à Javascript](Javascript01-Introduction.pdf)
 - Entrainement : [Première série](js-exercises-base1)
+- Entrainement : [Deuxième série](js-exercices-base2.md)
 
 ### Challenge
 A venir
