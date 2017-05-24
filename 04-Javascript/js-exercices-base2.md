@@ -156,3 +156,7 @@ En fonction de la valeur obtenue, on peut estimer la corpulence de la manière s
 Créer un bouton. Au click de ce bouton, lancer la fonction `calculIMC`.
 
 Cette fonction va demander le poids et la taille, calculer l'IMC, ensuite l'afficher avec 2 décimales et enfin afficher un message disant dans quelle catégorie de corpulence on se situe.
+
+## Cat tax
+![Colonel Meow for the Cat Tax](Colonel-Meow.jpg)
+
