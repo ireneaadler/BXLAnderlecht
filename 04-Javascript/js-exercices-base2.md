@@ -1,4 +1,4 @@
-# Les Conditions en Javascript
+# Deuxième série d'exercices...
 
 ## Ressources
 Pour vous aider, utilisez ce site. Il y a à priori la réponse à toutes les questions que vous vous poserez. Le sommaire se trouve à gauche (pas à droite comme sur Bootstrap). Fouillez, regardez, cherchez ce dont vous avez besoin. Entraidez-vous également !
