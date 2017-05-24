@@ -52,6 +52,8 @@ Quel est le résultat des opérations suivantes (b est toujours initialisée à 
 - `a=1;a+=b--;`
 - `a=1;a+=--b;`
 
+Pour chacune des opérations, afficher l'opération effectuée, la valeur de `a` après l'opération et la valeur de `b` après l'opération.
+
 ### **Exercice 6** - appel à une fonction retournant une valeur
 
 1. Créez un tableau nommé `tab` dont le premier élément est -2, le deuxième 1 et le troisième 4
