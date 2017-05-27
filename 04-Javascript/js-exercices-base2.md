@@ -41,16 +41,16 @@ Afficher ensuite le résultat de l'appel à cette fonction en cliquant sur un bo
 
 Quel est le résultat des opérations suivantes (b est toujours initialisée à 2) ?
 
-- `a=b++; a=2 ; b=3`
-- `a=++b; a=3 ; b=3`
-- `a=b--; a=2 ; b=1`
-- `a=--b; a=1 ; b=2`
-- `a=1;a+=b++; a=a+(b++) = a=a+b = b=b+1 donc a=3 ; b=3`
-- `a=1;a+=++b; b=b+1 => b=3 et a=a+(b+1) => a=4`
-- `a=1;a-=b++;`
-- `a=1;a-=++b;`
-- `a=1;a+=b--;`
-- `a=1;a+=--b;`
+- `a=b++;`
+- `a=++b;`
+- `a=b--;`
+- `a=--b;`
+- `a+=b++;`
+- `a+=++b;`
+- `a-=b++;`
+- `a-=++b;`
+- `a+=b--;`
+- `a+=--b;`
 
 Pour chacune des opérations, afficher l'opération effectuée, la valeur de `a` après l'opération et la valeur de `b` après l'opération.
 
