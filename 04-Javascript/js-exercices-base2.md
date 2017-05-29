@@ -39,18 +39,19 @@ Afficher ensuite le résultat de l'appel à cette fonction en cliquant sur un bo
 
 ### **Exercice 5** - manipulation des opérateurs
 
-Quel est le résultat des opérations suivantes (b est toujours initialisée à 2) ?
+b est toujours initialisée à 2
+Quel est le résultat des opérations suivantes ?
 
 - `a=b++;`
 - `a=++b;`
 - `a=b--;`
 - `a=--b;`
 - `a+=b++;`
-- `a+=++b;`
-- `a-=b++;`
-- `a-=++b;`
-- `a+=b--;`
-- `a+=--b;`
+- `a=1; a+=++b;`
+- `a=1; a-=b++;`
+- `a=1; a-=++b;`
+- `a=1; a+=b--;`
+- `a=1; a+=--b;`
 
 Pour chacune des opérations, afficher l'opération effectuée, la valeur de `a` après l'opération et la valeur de `b` après l'opération.
 
