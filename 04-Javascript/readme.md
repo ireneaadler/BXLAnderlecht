@@ -5,9 +5,18 @@
 - Cours : [01 - Introduction à Javascript](Javascript01-Introduction.pdf)
 - Entrainement : [Première série](js-exercises-base1)
 - Entrainement : [Deuxième série](js-exercices-base2.md)
+- Cours : [02 - Le DOM](Javascript02-DOM.pdf)
+- Entrainement : [Troisième série](js-exercises-base3)
+- Entrainement : [Quatrième série](js-exercises-base4)
+- Entrainement : [Cinquième série](js-exercises-base5)
+- Entrainement : [Sixième série](js-exercises-base6)
 
-### Challenge
-A venir
+### En selle !
+
+- [Javascript Recall](recall)
+- [JS Cookie Clicker](cookie-clicker)
+- [Jeu des paires](jeu-des-paires)
+
 
 ### Ressources
 - [Silent Teacher](http://silentteacher.toxicode.fr/) - s'initier en s'amusant
