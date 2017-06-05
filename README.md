@@ -23,4 +23,7 @@ Des exercices à faire ? Un projet à réaliser ?
 
 4. Tu travailles sur une version que tu ne souhaites pas voir apparaître sur ta branche master ? Sur GitHub, **crée une branche alternative**. On veut tous tes travaux, tes exercices, tes projets en cours sur GitHub. Pas d'excuses !
 
-5. Point facultatif : si ton github est en bordel, comme dit Alex : **"Range ta chambre !"**
+5. Si ton github est en bordel, comme dit Alex : **"Range ta chambre !"**. Inutile d'utiliser la technique de "tout mettre sous le lit" (tout mettre dans un seul repo), on l'a tous fait, on connaît. Pour chaque projet, un repo. Concernant les exercices, mettez tous vos exercices d'un langage dans un repo (et non tous les exercices, tous langages, tous thèmes dans un seul repo, attention !)
+
+
+Merci bien, bisous.
