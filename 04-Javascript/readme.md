@@ -10,6 +10,7 @@
 - Entrainement : [Quatrième série](js-exercises-base4)
 - Entrainement : [Cinquième série](js-exercises-base5)
 - Entrainement : [Sixième série](js-exercises-base6)
+- Cours : [03 - Canvas](Javascript03-Canvas.pdf)
 
 ### En selle !
 
