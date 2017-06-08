@@ -13,7 +13,8 @@
 
 ### Exercices
 
-à venir
+- [Exercice de Slider](jquery-slider) - Simple jQuery picture carousel
+- [Exercice de formulaire](jquery-form) - Simple jQuery interactive form
 
 ### Projets
 
