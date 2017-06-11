@@ -1,3 +1,0 @@
-# Quizz
-
-- [HTML](HTML)
