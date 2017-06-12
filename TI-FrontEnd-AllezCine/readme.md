@@ -3,13 +3,14 @@
 Ce que nous appelons un travail d'intégration, c'est un travail avec des consignes à respecter impérativement. Les TI conclut une période d'apprentissage et vous permette de mettre en pratique ce que vous avez appris. Ils permettent également à vos formateurs de vous évaluer, savoir où vous avez encore des difficultés et savoir quels sont vos acquis. Enfin, ces travaux, s'ils sont réalisés correctement, peuvent faire partie d'un portfolio que vous pourriez montrer à un employeur.
 
 **!!! N'oubliez pas de nommer votre repo "TI-FrontEnd-AllezCine" !!!**
+
 **Un repo par projet ! Et n'oubliez pas votre readme.md !!!**
 
 ## Travail d'intégration Front-End
 
 Ce TI conclut les deux mois de front-end que nous avons eus ensemble.
 Vous avez **3 travails en rendre**.
-- Un site en ONE PAGE avec un design fournit ([yes !](layout-one-page)).
+- Un site en ONE PAGE avec un design fournit ([yes !](layout-one-page.jpg).
 - Un site de fans (Design non fourni)
 - Création d’une newsletter pour faire la promo des nouveautés sur votre site.
 
@@ -29,7 +30,7 @@ Remarque : Le style par défaut de Bootstrap soit complètement absent (utilisez
 
 Vous allez réaliser, en groupe, un site internet de location et vente des films. ATTENTION, il s'agit d'un site en one-page !
 
-[Cliquez ici pour voir le layout](layout-one-page)
+[Cliquez ici pour voir le layout](layout-one-page.jpg)
 
 #### Entrer sur le site
 Lorsqu’on entre sur le site il faut contraindre l’utilisateur à entrer son âge.
@@ -61,12 +62,12 @@ Les **boutons de réseaux sociaux** sont en position fixe. Si on clique sur un b
 
 #### Section Films
 Chaque film doit comporter :
--une affiche,
+- une affiche,
 - un titre,
 - l’année de sortie,
 - et le genre.
 
-Si on clique sur l’image ou titre du film, faire apparaître dans un Modal (Bootstrap) le trailer youtube du film, la description, le réalisateur, l’année de sortie du film, le genre, les acteurs…
+Si on clique sur l’image ou titre du film, faire apparaître dans un modal (Bootstrap) le trailer youtube du film, la description, le réalisateur, l’année de sortie du film, le genre, les acteurs…
 
 #### Section Featured Movies
 Créer des boutons pour filtrer les films par genre (Jquery ou JS).
@@ -78,7 +79,8 @@ Lorsqu’on clique sur le bouton “plus des films”, afficher les autres films
 Utiliser les deux petits boutons à droite pour faire défiler les films de gauche à droite et vise-versa (Jquery, bootstrap, JS au choix)
 
 #### Section Contact Us
-Créer un formulaire et afficher dans un modal les entrées du formulaire lorsqu’on clique sur “Send Message”. (Pas de traitement en php, prochainement promis)
+Créer un formulaire et afficher dans un 
+les entrées du formulaire lorsqu’on clique sur “Send Message”. (Pas de traitement en php, prochainement promis)
 
 Bonus: mettre une map dans la section Contact us.
 
@@ -105,7 +107,7 @@ Minimum 5 pages avec :
 - **Goodies** (page de simulation d'achat de produits dérivés),
 - **Contact** (je vous fais pas un dessin)
 
-**BONUS** : Au lieu de faire 5 pages, faites 5 onglets et réalisez ce site sur une seule page web.
+**BONUS PAS OBLIGATOIRE** : Au lieu de faire 5 pages, faites 5 onglets et réalisez ce site sur une seule page web.
 
 
 #### Conditions imposées
@@ -136,9 +138,9 @@ Vous pouvez utiliser les TABLES, ou du HTML5 ( certains webmails acceptent du HT
 Référence: http://pictures.yvesrocher.com/NL/2017-06/06/be-fr/jun_6_be-fr_a2_online.html
 Voici une newsletter que j’ai reçu de la part de Yves Rocher, s’inspirer à souhait et c’est essentiellement des tables.
 
-Bonne chance.
+Bonne chance et bon courage. (PS : on vous aime)
 
 ## REMARQUES :
 Vous travaillez en groupe. Organisez-vous. Communiquez (rappelez-vous les bienfaits des réunions scrum). Vous avez jusque vendredi midi pour terminer ce site.
 
-Nous reprendons le site de la partie A pour l'agrémenter de PHP. Faites ça bien !
+Si vous avez des remarques ou des questions, n'hésitez pas à utiliser l'onglet [Issues](https://github.com/becodeorg/BXLAnderlecht/issues) de GitHub pour vous exprimer.
