@@ -39,7 +39,7 @@ S’il a 18 ans et plus, l’autoriser à entrer sur le site, sinon le rediriger
 
 Une fois sur le site, faire apparaître n’importe où sur le site une box pour la mise en garde de COOKIES.(on en voit ces derniers temps partout sur le net)
 
- Lorsqu’on clique sur le bouton LOGIN faire apparaître en JS ou Jquery dans une box un formulaire de connexion.
+ Lorsqu’on clique sur le bouton LOGIN faire apparaître en JS ou Jquery dans une box un formulaire de connexion.( voir le site http://www.commeaucinema.com/)
  Ce formulaire de connexion contiendra :
  - identifiant,
  - password,
