@@ -10,7 +10,7 @@ Ce que nous appelons un travail d'intégration, c'est un travail avec des consig
 
 Ce TI conclut les deux mois de front-end que nous avons eus ensemble.
 Vous avez **3 travails en rendre**.
-- Un site en ONE PAGE avec un design fournit ([yes !](layout-one-page.jpg).
+- Un site en ONE PAGE avec un design fournit ([yes !](layout-one-page.jpg)).
 - Un site de fans (Design non fourni)
 - Création d’une newsletter pour faire la promo des nouveautés sur votre site.
 
@@ -30,7 +30,8 @@ Remarque : Le style par défaut de Bootstrap soit complètement absent (utilisez
 
 Vous allez réaliser, en groupe, un site internet de location et vente des films. ATTENTION, il s'agit d'un site en one-page !
 
-[Cliquez ici pour voir le layout](layout-one-page.jpg)
+- [Cliquez ici pour voir le layout](layout-one-page.jpg)
+- On met également à votre disposition quelques affiches de films, histoire de vous faire gagner un peu de temps (les titres, années et genre sont dans les noms des images. De rien.)
 
 #### Entrer sur le site
 Lorsqu’on entre sur le site il faut contraindre l’utilisateur à entrer son âge.
