@@ -44,7 +44,8 @@ Une fois sur le site, faire apparaître n’importe où sur le site une box pour
  - identifiant,
  - password,
  - un bouton OK,
- - un lien “ S’enregistrer”,
+ - un bouton “Créer un compte”,
+ - un "rester connecté"
  - un lien “Si vous avez oublié votre mot de passe”
  - et un lien CANCEL.
 
