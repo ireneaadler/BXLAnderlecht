@@ -5,9 +5,12 @@
 - [02 - HTML-CSS](/02-HTML-CSS)
 - [03 - Bootstrap](/03-Bootstrap)
 - [04 - Javascript](/04-Javascript)
+- [05 - jQuery](/05-jQuery)
+- [06 - PHP](/06-PHP)
+
+- [Travail d'intégration : Front-End](/TI-FrontEnd-AllezCine)
 - [Projets externes](/Projets)
-- [Quizz](/Quizz)
-- [Veille](/Veille)
+
 
 ## La bonne pratique quand on travaille chez Becode
 
