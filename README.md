@@ -8,7 +8,8 @@
 - [05 - jQuery](/05-jQuery)
 - [06 - PHP](/06-PHP)
 
-- [Travail d'intégration : Front-End](/TI-FrontEnd-AllezCine)
+- [Travail d'intégration : Front-End, modules 1 à 3](https://github.com/becodeorg/BXLAnderlecht/blob/master/03-Bootstrap/projet.md)
+- [Travail d'intégration : Front-End, modules 1 à 5](/TI-FrontEnd-AllezCine)
 - [Projets externes](/Projets)
 
 
