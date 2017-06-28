@@ -73,5 +73,7 @@ Traduire ce code avec des if et des else :
 
 
     <?php
-      echo ($maVariable) ? 'c'est ok !!' : 'c'est pas bon !!!';
+    ?>
+    ?>
+      echo ($maVariable) ? 'c\'est ok !!' : 'c\'est pas bon !!!';
     ?>
