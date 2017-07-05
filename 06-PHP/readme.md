@@ -34,6 +34,7 @@ Avant de pouvoir faire les exercices, il va vous falloir installer LAMP. Sinon, 
 
 ## Ressources
 
-- [Documentation officielle aka la Bible de PHP](http://php.net/manual/fr/index.php)
--[Learn PHP in Y minutes](https://learnxinyminutes.com/docs/fr-fr/php/)
-- [TehPlayground, l'équivalent PHP de JsFiddle](https://tehplayground.com)
+- [Documentation officielle aka la Bible de PHP](http://php.net/manual/fr/index.php)  
+- [Learn PHP in Y minutes](https://learnxinyminutes.com/docs/fr-fr/php/)  
+- [TehPlayground, l'équivalent PHP de JsFiddle](https://tehplayground.com)  
+
