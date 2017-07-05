@@ -30,6 +30,8 @@ Avant de pouvoir faire les exercices, il va vous falloir installer LAMP. Sinon, 
 - [Les variables globales, $SESSION](php-ex-variablesglobales.md)
 - [Les dates](php-ex-date.md)
 
+- Bonus d'Eric : [Controleur PHP](controleur-zoo.md)
+
 ## Ressources
 
 - [Documentation officielle aka la Bible de PHP](http://php.net/manual/fr/index.php)
