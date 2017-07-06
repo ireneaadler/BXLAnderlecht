@@ -30,7 +30,10 @@ Avant de pouvoir faire les exercices, il va vous falloir installer LAMP. Sinon, 
 - [Les variables globales, $SESSION](php-ex-variablesglobales.md)
 - [Les dates](php-ex-date.md)
 
-- Bonus d'Eric : [Controleur PHP](controleur-zoo.md)
+### Bonus d'Eric : 
+- [Controleur PHP](controleur-zoo.md)
+- [Créer une pagination](creer_pagination.md)
+- [Manipulation de fichiers avec PHP](Manipulation_fichier_php.md)
 
 ## Ressources
 
