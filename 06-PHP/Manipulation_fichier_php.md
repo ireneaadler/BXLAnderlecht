@@ -1,6 +1,6 @@
 # Manipulation fichier en php.
 
-##### _Ben, beaucoup de personnes qui commence le php se demandent comment marche les fichiers en php. Alors j’ai fait un petit récapitulatif de ce que je sais faire et j'espère que cela va vous aidez._ 
+Beaucoup de personnes qui commence le php se demande comment marche les fichiers en php. Alors j’ai fait un petit récapitulatif de ce que je sais faire et j'espère que cela va vous aider.
 
 ## Fichier : 
 
@@ -9,21 +9,21 @@
 $fp = fopen("nom du fichier","mode");
 ```
 
-Pour le nom du fichier prenons texte.txt, le mode correspond à ce que l'on veut faire: 
+Pour le nom du fichier prenons texte.txt, le mode correspond à ce que l'on veut faire : 
 * **"r"** pour indiquer la lecture et 
 * **"a"** ou **"w"** pour l'écriture. 
 * **"a"** signifie qu'on ouvre et on se place à la fin du fichier et 
 * **"w"** au début. 
 
-A ces trois lettres on peut rajoutez le signe **"+"** pour indiquez qu'il faut creer le fichier s'il n'existe pas. 
+A ces trois lettres on peut rajouter le signe **"+"** pour indiquer qu'il faut créer le fichier s'il n'existe pas. 
 Pour les fichiers de type binaire on rajoute aussi **"b"**, donc 
 ```
 $fp=fopen("texte.txt","w+"); 
 fclose($fp); 
 ```
 
-va créer un fichier texte.txt, pour l'instant le fichier est vide. 
-_Remarquer qu'un fois qu'on a fini de travailler sur un fichier on le ferme avec **fclose()**_; 
+va créer un fichier texte.txt. Pour l'instant le fichier est vide. 
+_Remarquez qu'un fois qu'on a fini de travailler sur un fichier, on le ferme avec **fclose()**_; 
 
 **Disons que je veuille rajouter dans ce fichier un texte** : 
 ```
@@ -68,8 +68,8 @@ $fichier_texte=fgets($fp,1024);
 echo"$fichier_texte"; 
 ```
 
-**fgets();** prends la ligne complete soit "Mon premier ajout". 
-####Pour avoir tout le contenu on peut par exemple parcourir le fichier ligne par ligne 
+**fgets();** prend la ligne complète soit "Mon premier ajout". 
+#### Pour avoir tout le contenu on peut par exemple parcourir le fichier ligne par ligne 
 ```
 while(!feof($fp)) 
 { 
@@ -78,7 +78,7 @@ echo"$fichier_texte";
 } 
 ```
 
-Ou encore extraire tous les n characteres sur la totalité du fichier (ici n=10) 
+Ou encore extraire tous les n charactères sur la totalité du fichier (ici n=10) 
 ```
 while(!feof($fp)) 
 { 
@@ -179,7 +179,7 @@ echo "On peut écrire dans ce fichier"; }
 else { echo "Ecriture impossible dans ce fichier !";
 } 
 ```
-#### Compteur grace au fichier texte : Voici un petit compteur tout bete. 
+#### Compteur grâce au fichier texte : Voici un petit compteur tout bête. 
 ```
 $fp = fopen("compteur.txt","r+"); 
 $nbvisites = fgets($fp,255); 
@@ -191,6 +191,6 @@ echo"Vous êtes le $nbvisites visiteurs";
 ```
 
 On onvre en lecture et écriture, puis on met dans la variable $nbvisites les 255 premiers caratères, on y ajoute 1. 
-Ensuite on se place au debut du fichier, on crée le résultat et on n'oublie pas de fermer.
+Ensuite on se place au début du fichier, on crée le résultat et on n'oublie pas de fermer.
 
 # Bon LOL
