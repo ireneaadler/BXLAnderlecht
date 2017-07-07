@@ -6,7 +6,7 @@ Le  contenu de cette variable équivaut à un résultat venant d'une DB;
 * Utiliser la fonction créée pour paginer le  contenu de la variable $contenu. 
 * Afficher 4 articles par pages.
 
-**Astuces**: Attention avec des nombres decimaux, chercher à les concertir en entier.
+**Astuces**: Attention avec des nombres decimaux, chercher à les convertir en entier.
 * Pour cela les fonction comme **ceil()** si division il y a, ou
 * **ctype_digit()** pour verifier si la variable est un entier positif. 
 * N'oubliez pas de compter le nombre d'article qu'il y a dans $contenu avec un **count()**;
