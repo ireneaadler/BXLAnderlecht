@@ -21,7 +21,7 @@ Il existe trois modes d'erreurs :
 2. **PDO::ERRMODE_WARNING** - émet un warning ;
 3. **PDO::ERRMODE_EXCEPTION** - lance une exception.
 
-### Sans les requêttes préparées
+### Sans les requêtes préparées
 On peut utiliser les méthodes query() et exec().
 Dans la pratique :
 1. vous utiliserez **query()** pour des requêtes de sélection **(SELECT)**
