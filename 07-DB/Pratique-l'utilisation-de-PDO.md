@@ -8,7 +8,7 @@ try {
     $strConnection = 'mysql:host=localhost;dbname=ma_base'; //Ligne 1
     $arrExtraParam= array(PDO::MYSQL_ATTR_INIT_COMMAND => "SET NAMES utf8"); 
     $pdo = new PDO($connStr, 'Utilisateur', 'Mot de passe', $arrExtraParam); // Instancie la connexion
-    $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);//Ligne 4
+    $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION); //Ligne 4
 }
 catch(PDOException $e) {
     $msg = 'ERREUR PDO dans ' . $e->getFile() . ' L.' . $e->getLine() . ' : ' . $e->getMessage();
@@ -22,8 +22,8 @@ Il existe trois modes d'erreurs :
 3. **PDO::ERRMODE_EXCEPTION** - lance une exception.
 
 ### Sans les requêttes préparées
-On peux utiliser les méthodes query() et exec().
-Dans la pratique:
+On peut utiliser les méthodes query() et exec().
+Dans la pratique :
 1. vous utiliserez **query()** pour des requêtes de sélection **(SELECT)**
 2. et **exec()** pour des requêtes d'insertion **(INSERT)**, de modification **(UPDATE)** ou de suppression **(DELETE)**.
 
@@ -31,7 +31,7 @@ Dans la pratique:
 - *Version PDO*
 ```
 $query = 'SELECT * FROM foo WHERE bar=1;';
-$arr = $pdo->query($query)->fetch(); //Sur une même ligne ...
+$arr = $pdo->query($query)->fetch(); // Sur une même ligne ...
 ```
 
 - *Version MySQL*
@@ -75,7 +75,7 @@ Nous allons maintenant voir comment effectuer des requêtes préparées avec PDO
 **Exemple - Effectuer un prepare et un fetchAll:**
 - *Version PDO*
 ```
-//Préparer la requête
+// Préparer la requête
 $query = 'SELECT *'
 	. ' FROM foo'
 	. ' WHERE id=?'
@@ -83,24 +83,24 @@ $query = 'SELECT *'
 	. ' LIMIT ?;';
 $prep = $pdo->prepare($query);
  
-//Associer des valeurs aux place holders
+// Associer des valeurs aux place holders
 $prep->bindValue(1, 120, PDO::PARAM_INT);
 $prep->bindValue(2, 'bar', PDO::PARAM_STR);
 $prep->bindValue(3, 10, PDO::PARAM_INT);
  
-//Compiler et exécuter la requête
+// Compiler et exécuter la requête
 $prep->execute();
  
-//Récupérer toutes les données retournées
+// Récupérer toutes les données retournées
 $arrAll = $prep->fetchAll();
  
-//Clore la requête préparée
+// Clore la requête préparée
 $prep->closeCursor();
 $prep = NULL;
 ```
 - *Version MySQL*
 ```
-//Préparer la requête
+// Préparer la requête
 $query = 'PREPARE stmt_name'
 	. ' FROM "SELECT *'
 		. ' FROM foo'
@@ -109,7 +109,7 @@ $query = 'PREPARE stmt_name'
 		. ' LIMIT ?";';
 mysql_query($query);
  
-//Associer des valeurs aux place holders
+// Associer des valeurs aux place holders
 $query = 'SET @paramId = 120;';
 mysql_query($query);
 $query = 'SET @paramCat = "bar";';
@@ -117,28 +117,26 @@ mysql_query($query);
 $query = 'SET @paramLimit = 10;';
 mysql_query($query);
  
-//Compiler et exécuter la requête
+// Compiler et exécuter la requête
 $query = 'EXECUTE stmt_name'
 	. ' USING @paramId,'
 		. ' @paramCat,'
 		. ' @paramLimit;'
 $result = mysql_query($query);
  
-//Récupérer toutes les données retournées
+// Récupérer toutes les données retournées
 $arrAll = array();
 while($arr = mysql_fetch_assoc($result))
      $arrAll[] = $arr;
  
-//Clore la requête préparée
+// Clore la requête préparée
 $query = 'DEALLOCATE PREPARE stmt_name;';
 mysql_query($query);
 ```
 ### Réutiliser une requête préparée pour gagner en performance
-l'avantage initial des requêtes préparées est la réutilisation du moule de la requête. 
-En effet, le SGBD à déjà effectué une partie du traitement sur la requête. 
-Il est donc possible de ré-exécuter la requête avec de nouvelles valeurs, 
-sans pour autant devoir reprendre le traitement du départ; 
-le découpage et l'interprétation ont déjà été fait !
+L'avantage initial des requêtes préparées est la réutilisation du moule de la requête. 
+En effet, le SGBD a déjà effectué une partie du traitement sur la requête. 
+Il est donc possible de ré-exécuter la requête avec de nouvelles valeurs, sans pour autant devoir reprendre le traitement du départ ; le découpage et l'interprétation ont déjà été fait !
 
 **Réutiliser une requête préparée**
 ```
@@ -160,11 +158,5 @@ $prep->execute();
 $prep = NULL;
 ```
 
-###ATTENTION###
+## ATTENTION
 Lors de l'utilisation des requêtes préparées, vous ne pouvez associer que des valeurs et non des commandes SQL.
-
-Bonne LOL
-
-
-
-
