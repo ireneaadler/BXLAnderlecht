@@ -8,6 +8,7 @@
 - [Introduction à MySQL](MySQL1.pdf) (PDF) - DB, phpMyAdmin et SQL
 - [Cours : SoloLearn SQL](https://www.sololearn.com/Course/SQL/) - pour apprendre le langage SQL, ce langage qui parle aux bases de données
 - [Introduction à PDO](MySQL2-connexion.pdf) (PDF) - connexion à la DB, tables multiples et jointures
+- [Connexion à la DB en PDO et MySQL et requêtes préparées](Pratique-l'utilisation-de-PDO.md)
 - [Introduction aux bases de données relationnelles](MySQL3-relationnel.pdf) (PDF) - tables multiples et jointures
 
 ## Exercices
