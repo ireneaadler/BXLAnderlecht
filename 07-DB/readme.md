@@ -10,6 +10,7 @@
 - [Introduction à PDO](MySQL2-connexion.pdf) (PDF) - connexion à la DB, tables multiples et jointures
 - [Connexion à la DB en PDO et MySQL et requêtes préparées](Pratique-l'utilisation-de-PDO.md)
 - [Introduction aux bases de données relationnelles](MySQL3-relationnel.pdf) (PDF) - tables multiples et jointures
+- [Wiki sur les MCD et les logiciels utiles pour les réaliser](https://github.com/becodeorg/BeCode/wiki/Outils-de-mod%C3%A9lisation-de-base-de-donn%C3%A9es-%28SQL%29)
 
 ## Exercices
 - [MySQL CRUD - Activité "randonnée"](php-training-mysql) - Comprendre la base de données
