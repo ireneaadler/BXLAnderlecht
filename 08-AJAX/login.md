@@ -5,7 +5,7 @@
 Après avoir parcouru hier les différents usages d’Ajax ( Pas seulement nettoyer ), nous allons faire un exemple simple, du point de vous tant fonctionnel que du code.
 
 1. Reprenez votre site cinema.
-2. Ajouter sur le formulaire de connexion le bouton annuler à côté du bouton envoyer.
+2. Ajouter à votre formulaire de connexion un bouton annuler à côté du bouton envoyer.
 
 3. Créer un login et un mot de passe, et le mettre dans un tableau. Ceux-ci vont vous permettre de simuler une connexion.
 
