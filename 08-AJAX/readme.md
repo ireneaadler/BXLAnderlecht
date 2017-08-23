@@ -4,5 +4,5 @@
 - [Initiation à AJAX](Javascript05-AJAX.pdf)
 
 ## Exercices
-- [Joyeux anniversaire](anniv.md)
+- [Formulaire de connexion](login.md)
 - [To do list](todolist.md)
