@@ -37,8 +37,8 @@ Pour rappel :
 
 **Notes**
 
-- Les numéros de facture répondent au format année mois jour numéro. Exemple : 201708290001
-- Type : savoir si la société est un fournisseur ou un client, pas les deux.
+- Les numéros de facture peuvent comporter des chiffres et des lettres. (on y stockera les factures clients et fournisseurs)
+- Type : la société peut être un fournisseur ou un client, pas les deux.
 - Concernant les relations entre les tables, il faudra :
   - societes---type
   - societes---factures
@@ -126,6 +126,6 @@ Affichera les informations suivantes selon la personne de contact choisie :
 ### BONUS
 Vous pouvez utiliser Bootstrap et son super CSS lié aux tableaux pour faire votre application.
 
-Réaliser un petit design sympa pour notre ami Jean-Christian. Rappelez-vous que notre ami et client est comptable à la COGIP depuis plus de 20 ans !
+Réaliser un petit design sympa pour notre ami Jean-Christian. Rappelez-vous que notre ami est comptable à la COGIP depuis plus de 20 ans !
 
 ![Jean-Christian Ranu de la COGIP](cogip_badge.jpg)
