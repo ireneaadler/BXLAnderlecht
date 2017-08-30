@@ -48,9 +48,16 @@ Pour rappel :
 ## L'app pour Ranu
 
 Avec cette base de données, on va faire une petite application (comme un site web) avec les pages suivantes :
+- accueil,
 - sociétés (societe.php),
 - factures (facture.php),
 - annuaire (annuaire.php),
+- fournisseurs (fournisseur.php),
+- clients (client.php),
+- details d'une societe (detailsociete.php),
+- details d'une facture (detailfacture.php),
+- details d'une personne de contact (detailcontact.php)
+
 
 ### page d'accueil
 Affichera :
@@ -117,6 +124,8 @@ Affichera les informations suivantes selon la personne de contact choisie :
 - la liste des factures liées à la personne
 
 ### BONUS
+Vous pouvez utiliser Bootstrap et son super CSS lié aux tableaux pour faire votre application.
+
 Réaliser un petit design sympa pour notre ami Jean-Christian. Rappelez-vous que notre ami et client est comptable à la COGIP depuis plus de 20 ans !
 
 ![Jean-Christian Ranu de la COGIP](cogip_badge.jpg)
