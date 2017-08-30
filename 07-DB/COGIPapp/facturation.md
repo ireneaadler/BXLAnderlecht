@@ -29,7 +29,6 @@ Pour rappel :
 | id_facture |
 | numero_facture |
 | date_facture |
-| bc_facture |
 
 | type |
 | ------------- |
@@ -39,8 +38,7 @@ Pour rappel :
 **Notes**
 
 - Les numéros de facture répondent au format année mois jour numéro. Exemple : 201708290001
-- bc = bon de commande : Une facture, pour qu'elle soit approuvée par Ranu, doit correspondre à un bon de commande.
-- Type : savoir si la société est un fournisseur ou un client
+- Type : savoir si la société est un fournisseur ou un client, pas les deux.
 - Concernant les relations entre les tables, il faudra :
   - societes---type
   - societes---factures
@@ -104,7 +102,6 @@ Affichera les informations suivantes selon la société choisie :
 Affichera les informations suivantes selon la facture choisie :
 - numéro
 - date
-- bon de commande
 - société liée à la facture
 - type de la société liée à la facture (fournisseur ou client)
 - numéro de compte bancaire de la société liée à la facture
