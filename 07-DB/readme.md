@@ -21,6 +21,7 @@ Attention, il faut bien séparer le traitement PHP (avant la balise doctype) et 
 - [Authentification](php-challenge-auth) - Create a user system
 - [CRUD - 1](php-exercises-crud1) - CRUD part one
 - [CRUD - 2](php-exercises-crud2) - CRUD part two
+- [Conception d'une base de données relationnelle](exercice-conceptionDBrelationnelle.md)
 
 ## Projet concret
 - [COGIPapp](COGIPapp) - An app for Jean-Christian Ranu
