@@ -38,6 +38,7 @@ Pour rappel :
 
 **Notes**
 
+- Les numéros de facture répondent au format année mois jour numéro. Exemple : 201708290001
 - bc = bon de commande : Une facture, pour qu'elle soit approuvée par Ranu, doit correspondre à un bon de commande.
 - Type : savoir si la société est un fournisseur ou un client
 - Concernant les relations entre les tables, il faudra :
