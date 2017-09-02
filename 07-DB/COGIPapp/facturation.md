@@ -44,6 +44,8 @@ Pour rappel :
   - societes---factures
   - personnes---factures
   - personnes---societes
+  
+  Cela signifie qu'il faudra peut-être (surement) rajouter des colonnes à certaines endroits et réfléchir aux liaisons (1:1, 1:m, m:m),...
 
 ## L'app pour Ranu
 
