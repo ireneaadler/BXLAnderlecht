@@ -105,7 +105,6 @@ Affichera les informations suivantes selon la facture choisie :
 - date
 - société liée à la facture
 - type de la société liée à la facture (fournisseur ou client)
-- numéro de compte bancaire de la société liée à la facture
 - personne de contact liée à la facture
 
 ### detailcontact
