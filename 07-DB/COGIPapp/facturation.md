@@ -51,11 +51,10 @@ Pour rappel :
 
 Avec cette base de données, on va faire une petite application (comme un site web) avec les pages suivantes :
 - accueil,
-- sociétés (societe.php),
-- factures (facture.php),
-- annuaire (annuaire.php),
 - fournisseurs (fournisseur.php),
 - clients (client.php),
+- factures (facture.php),
+- annuaire (annuaire.php),
 - details d'une societe (detailsociete.php),
 - details d'une facture (detailfacture.php),
 - details d'une personne de contact (detailcontact.php)
@@ -70,19 +69,10 @@ Affichera :
 - un lien vers la page fournisseurs
 - un lien vers la page clients
 
-### page sociétés
-Affichera la liste des sociétés par ordre alphabétique.
-
-Le nom de chaque société sera un lien qui renverra vers une nouvelle page detailsociete dont le contenu sera généré en fonction de l'id de la société choisie.
-
-BONUS : On appliquera un filtre par types pour mieux trier les sociétés
-
 ### page factures
 Affichera la liste des numéros de toutes les factures par date la plus récente vers la date la plus lointaine.
 
 Chaque numéro de facture sera un lien qui, au clic, renverra vers une page detailfacture dont le contenu sera généré en fonction de l'id de la facture sélectionnée.
-
-BONUS : On appliquera un filtre par société pour mieux trier les factures
 
 ### page annuaire
 Affichera la liste de toutes les personnes de contact de la base de données, par ordre alphabétique.
@@ -93,9 +83,11 @@ BONUS : On appliquera un filtre par société pour mieux trier les personnes de 
 
 ### page fournisseurs
 Affichera la liste de toutes les sociétés de type fournisseur. Chaque nom de société renvoie, à l'aide d'un lien, vers sa page detailsociete dédiée.
+BONUS : On appliquera un filtre par société pour mieux trier les factures
 
 ### page clients
 Affichera la liste de toutes les sociétés de type client. Chaque nom de société renvoie, à l'aide d'un lien, vers sa page detailsociete dédiée.
+BONUS : On appliquera un filtre par société pour mieux trier les factures
 
 ### detailsociete
 Affichera les informations suivantes selon la société choisie :
