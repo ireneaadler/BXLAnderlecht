@@ -1,4 +1,4 @@
-# Un outil de chat, en php + mysql + Ajax
+# Une application de chat, en php + mysql + Ajax
 
 Cet exercice a pour but de te remettre dans le bain après le congé et de préparer la suite de la formation: les bases de données relationnelles.
 
