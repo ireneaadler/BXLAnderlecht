@@ -10,6 +10,7 @@
 - [06 - PHP](/06-PHP)
 - [07 - DB](/07-DB)
 - [08 - AJAX](/08-AJAX)
+- [09 - MVC](/09-MVC)
 
 - [Travail d'intégration : Front-End, modules 1 à 3](/TI-BootstrapRestaurant)
 - [Travail d'intégration : Front-End, modules 1 à 5](/TI-FrontEnd-AllezCine)
