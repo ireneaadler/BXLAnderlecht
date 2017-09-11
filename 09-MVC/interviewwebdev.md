@@ -1,5 +1,5 @@
 # Interview de webdev
-Voici les questions à soumettre au webdev que vous allez interviewer pour votre exercice. Vous pouvez le contacter via les réseaux sociaux (tu peux même faire un appel dessus pour augmenter tes chances de rencontrer des webdev que tu ne connais pas déjà !), via e-mail, via skype,...
+Voici les questions à soumettre au webdev que vous allez interviewer pour votre exercice. Vous pouvez le contacter via les réseaux sociaux, via e-mail, via skype,...
 
 ## Présentation
 - Peux-tu te présenter brièvement ?
