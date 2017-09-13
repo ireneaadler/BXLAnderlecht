@@ -4,6 +4,8 @@
 
 - [Comprendre le MVC](MVC.pdf)
 
+EDIT : Bon, en vrai, on va reprendre l'application COGIP et la modifier avec une architecture MVC. Laissez tomber l'interview de webdev pour votre promo. Bisous.
+
 ## Projet : Interview d'un webdev
 
 Un site internet avec comme page :
