@@ -2,14 +2,14 @@
 
 ## Cours
 
-- [Introduction à la POO](POO-introduction.pdf)
-- [POO - chapitre 2](POO2.pdf)
+- [Introduction à la POO](POO-introduction.pdf) - ([Slides](https://drive.google.com/open?id=15NaUU7pfCL1pHCjdT-iqiAqgFjt_FRUN3RSCQG1EodE))
+- [POO - chapitre 2](POO2.pdf) - ([Slides](https://drive.google.com/open?id=13TD29INIBJy9YFh6VDORqE_sJamQ50ltoJWvINsicWk))
 
 ## Exercice 1 : Helpers Class
 
 * `POO` [Étape 1](POO-Helpers-Class-etape-1.md)
-* `POO` [Étape 2 ](POO-Helpers-Class-etape-2.md)
-* `POO` [Étape 3 ](POO-Helpers-Class-etape-3.md)
+* `POO` [Étape 2](POO-Helpers-Class-etape-2.md)
+* `POO` [Étape 3](POO-Helpers-Class-etape-3.md)
 
 ## Exercice 2
 
