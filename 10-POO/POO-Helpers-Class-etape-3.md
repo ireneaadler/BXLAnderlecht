@@ -1,6 +1,6 @@
-# POO: Helpers Class : Etape 3
+# POO : Helpers Class - Étape 3
 
-#Objectif
+## Objectif
 
 Créer une `class Validator` qui va servir à valider les données envoyer par le formulaire. Cette classe contiendra des méthodes qui pourront valider : 
 	- une chaine de caractère

@@ -2,7 +2,7 @@
 
 ## Petite initiation
 
-- [Comprendre le MVC](MVC.pdf) (PDF) - ([slides](https://docs.google.com/presentation/d/1OVz9HqSob9JskPsyxbxqXfbyqBh-SGtt-MjQHzK1SGw/edit?usp=sharing)
+- [Comprendre le MVC](MVC.pdf) (PDF) - ([slides](https://docs.google.com/presentation/d/1OVz9HqSob9JskPsyxbxqXfbyqBh-SGtt-MjQHzK1SGw/edit?usp=sharing))
 
 EDIT : Bon, en vrai, on va reprendre l'application COGIP et la modifier avec une architecture MVC. Laissez tomber l'interview de webdev pour votre promo. Bisous.
 

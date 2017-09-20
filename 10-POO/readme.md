@@ -7,6 +7,7 @@
 
 ## Exercice 1 : Helpers Class
 
+* `wiki` [Activité](POO-Helpers-Class.md)
 * `POO` [Étape 1](POO-Helpers-Class-etape-1.md)
 * `POO` [Étape 2](POO-Helpers-Class-etape-2.md)
 * `POO` [Étape 3](POO-Helpers-Class-etape-3.md)
@@ -38,5 +39,4 @@ qui permet de :
 ## Exercices de Simplon
 
 - [Pokemon](exopokemon.md)
-- ´wiki´ [POO Helpers Class](POO-helpersclass.md) *Avoid code redundancy*
-- ´wiki´ [MVC](mvctraining.md) *Discover the Model View Controller*
+- `wiki` [MVC](https://github.com/simplonco/php-training/wiki/MVC---Training) *Discover the Model View Controller*

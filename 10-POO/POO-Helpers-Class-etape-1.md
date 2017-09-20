@@ -1,6 +1,6 @@
-# POO: Helpers Class : Etape 1
+# POO : Helpers Class - Étape 1
 
-#Objectif
+## Objectif
 
 Comme vous avez pu le voir, nous pouvons intégrer du PHP dans du HTML. Cependant, ça devient très vite difficile à lire avec les ouvertures et fermetures successives des balises PHP et l'alternance entre PHP et HTML.
 

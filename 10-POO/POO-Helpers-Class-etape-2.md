@@ -1,8 +1,8 @@
-# POO: Helpers Class : Etape 2
+# POO : Helpers Class - Étape 2
 
 ## Objectif
 
-Créer une `class Html` ( dans un fichier séparé ) qui va générer différents éléments HTML :
+Créer une `class Html` (dans un fichier séparé) qui va générer différents éléments HTML :
 
 - Lier des Fichiers CSS `<link rel="stylesheet" ...>`
 - Créer des Balises meta `<meta ...>`
