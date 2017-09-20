@@ -10,5 +10,5 @@ Créer une `class Html` ( dans un fichier séparé ) qui va générer différent
 - Créer des Liens `<a href="...">`
 - Lier des Fichiers `Javascript`
 
-Vous devez créer cette classes en pensant qu'elles devront être utilisées par un autre développeur. 
+Vous devez créer cette classe en pensant qu'elle devra être utilisée par un autre développeur. 
 Utilisez des noms de propriétés et de méthodes qui ont du sens, restez simple et commentez votre code.
