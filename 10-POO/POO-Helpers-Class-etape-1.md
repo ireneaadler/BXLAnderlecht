@@ -2,7 +2,7 @@
 
 #Objectif
 
-Comme vous avez pu le voir, nous pouvons intégrer du PHP dans du HTML. Cependant, ça devient très vite difficile à lire avec les ouvertures et fermetures successifs des balises PHP et l'alternance entre PHP et HTML.
+Comme vous avez pu le voir, nous pouvons intégrer du PHP dans du HTML. Cependant, ça devient très vite difficile à lire avec les ouvertures et fermetures successives des balises PHP et l'alternance entre PHP et HTML.
 
 Nous allons minimiser autant que possible cette alternance en créant des classes PHP qui vont générer de l'HTML directement.
 
