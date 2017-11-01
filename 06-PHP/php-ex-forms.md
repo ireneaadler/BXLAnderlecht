@@ -1,5 +1,7 @@
 # PHP - Les formulaires
-Vous devez agrémenter votre code avec de l'HTML 5 valide (DOCTYPE, ....). Attention, on réfléchit avant de parler donc tâchez de mettre le traitement PHP avant le HTML.
+Vous devez agrémenter votre code avec de l'HTML 5 valide (DOCTYPE, ....).
+
+Attention, on réfléchit avant de parler donc [tâchez de mettre le traitement PHP avant le HTML](https://medium.com/@webmae/bonne-pratique-pour-débutant-on-sépare-ce-quon-affiche-de-ce-qu-on-programme-702ac08c6698).
 
 ## Exercice 1
 Créer un formulaire demandant **le nom** et **le prénom**. Ce formulaire doit rediriger vers la page **user.php** avec la méthode **GET**.
@@ -31,3 +33,7 @@ Au formulaire de l'exercice 5, ajouter un champ d'envoi de fichier. Afficher, en
 
 ## Exercice 8
 Sur le formulaire de l'exercice 6, en plus de ce qui est demandé sur les exercices précédents, vérifier que le fichier transmis est bien un fichier **pdf**.
+
+## Pour aller plus loin
+
+[Initiation à la sécurité : se protéger des failles](https://openclassrooms.com/courses/protegez-vous-efficacement-contre-les-failles-web)
