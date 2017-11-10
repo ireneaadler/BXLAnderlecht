@@ -12,7 +12,7 @@ Créer un fichier HTML pour chaque exercice sur le pattern "ex01.html", "ex02.ht
 
 ### **Exercice 1** - écriture d'une fonction
 
-Créer un bouton "Calculer la surface d'un rectangle". Faites en sorte que lorsqu'on clique sur le bouton, la fonction `surfaceRectagle()` se lance. Cette fonction va demander la saisie d'une largeur, d'une longueur et afficher la surface du rectangle correspondant.
+Créer un bouton "Calculer la surface d'un rectangle". Faites en sorte que lorsqu'on clique sur le bouton, la fonction `surfaceRectangle()` se lance. Cette fonction va demander la saisie d'une largeur, d'une longueur et afficher la surface du rectangle correspondant.
 
 Créer ensuite un nouveau bouton "Calculer le périmètre d'un rectangle". Faites en sorte que lorsqu'on clique sur le bouton, la fonction `periRectangle()` se lance. Cette fonction va demander la saisie d'une largeur, d'une longueur et afficher le périmètre du rectangle.
 
